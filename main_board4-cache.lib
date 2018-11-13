@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# lee_mech_key_comp:2SC1815
+# lee_mech_key_comp_2SC1815
 #
-DEF lee_mech_key_comp:2SC1815 Q 0 0 Y Y 1 F N
+DEF lee_mech_key_comp_2SC1815 Q 0 0 Y Y 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "lee_mech_key_comp:2SC1815" 200 0 50 H V L CNN
+F1 "lee_mech_key_comp_2SC1815" 200 0 50 H V L CNN
 F2 "TO-92" 200 -75 50 H V L CIN
 F3 "" 0 0 50 H V L CNN
 $FPLIST
@@ -24,11 +24,11 @@ X B 3 -200 0 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# lee_mech_key_comp:CONN_01X01
+# lee_mech_key_comp_CONN_01X01
 #
-DEF lee_mech_key_comp:CONN_01X01 P 0 40 Y N 1 F N
+DEF lee_mech_key_comp_CONN_01X01 P 0 40 Y N 1 F N
 F0 "P" 0 100 50 H V C CNN
-F1 "lee_mech_key_comp:CONN_01X01" 100 0 50 V V C CNN
+F1 "lee_mech_key_comp_CONN_01X01" 100 0 50 V V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -44,11 +44,11 @@ X P1 1 -200 0 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# lee_mech_key_comp:DIODE
+# lee_mech_key_comp_DIODE
 #
-DEF lee_mech_key_comp:DIODE D 0 40 N N 1 F N
+DEF lee_mech_key_comp_DIODE D 0 40 N N 1 F N
 F0 "D" -100 -50 40 H V C CNN
-F1 "lee_mech_key_comp:DIODE" 0 50 40 H V C CNN
+F1 "lee_mech_key_comp_DIODE" 0 50 40 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
@@ -59,11 +59,11 @@ X K 2 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# lee_mech_key_comp:R
+# lee_mech_key_comp_R
 #
-DEF lee_mech_key_comp:R R 0 0 N Y 1 F N
+DEF lee_mech_key_comp_R R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "lee_mech_key_comp:R" 0 0 50 V V C CNN
+F1 "lee_mech_key_comp_R" 0 0 50 V V C CNN
 F2 "" -70 0 50 V V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -77,11 +77,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# lee_mech_key_comp:SWITCH_PUSH
+# lee_mech_key_comp_SWITCH_PUSH
 #
-DEF lee_mech_key_comp:SWITCH_PUSH SW 0 40 N N 1 F N
+DEF lee_mech_key_comp_SWITCH_PUSH SW 0 40 N N 1 F N
 F0 "SW" 150 110 50 H V C CNN
-F1 "lee_mech_key_comp:SWITCH_PUSH" 0 -80 50 H V C CNN
+F1 "lee_mech_key_comp_SWITCH_PUSH" 0 -80 50 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
@@ -100,11 +100,11 @@ X Led- 4 -300 -150 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# lee_mech_key_comp:Teensy2.0++
+# lee_mech_key_comp_Teensy2.0++
 #
-DEF lee_mech_key_comp:Teensy2.0++ MCU 0 40 Y Y 1 F N
+DEF lee_mech_key_comp_Teensy2.0++ MCU 0 40 Y Y 1 F N
 F0 "MCU" 400 250 60 H V C CNN
-F1 "lee_mech_key_comp:Teensy2.0++" 550 350 60 H V C CNN
+F1 "lee_mech_key_comp_Teensy2.0++" 550 350 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
@@ -170,11 +170,11 @@ X E1 9 600 -200 200 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# lee_mech_key_comp:ext_module_comp
+# lee_mech_key_comp_ext_module_comp
 #
-DEF lee_mech_key_comp:ext_module_comp ext_ 0 40 Y Y 1 F N
+DEF lee_mech_key_comp_ext_module_comp ext_ 0 40 Y Y 1 F N
 F0 "ext_" 500 500 60 H V C CNN
-F1 "lee_mech_key_comp:ext_module_comp" 750 400 60 H V C CNN
+F1 "lee_mech_key_comp_ext_module_comp" 750 400 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
